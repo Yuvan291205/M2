@@ -36,11 +36,12 @@ int main() {
 ```
 
 ## OUTPUT:
+```
 Enter the starting value (M): 5
 Enter the ending value (N): 15
 Even numbers from 5 to 15 are:
 6 8 10 12 14
-
+```
 
 ## RESULT:
 Thus the program to print even numbers ranging from M to N (including M and N values) has been executed successfully
@@ -85,13 +86,14 @@ int main() {
 }
 ```
 ## OUTPUT:
+```
 Enter the number of rows: 5
 * 
 * * 
 * * * 
 * * * * 
 * * * * * 
-
+```
 
 
 
@@ -143,11 +145,12 @@ int main() {
 ```
 
 ## OUTPUT:
+```
 Enter the first number: 15
 Enter the second number: 8
 Addition = 23
 Subtraction = 7
-
+```
 
 
 
@@ -195,12 +198,12 @@ int main() {
 ```
 
 ## OUTPUT:
-
+```
 Enter a number: 12345
 Sum of odd digits = 9
 Enter a number: 80426
 Sum of odd digits = 0
-
+```
 
 ## RESULT:
 
@@ -249,11 +252,12 @@ int main() {
 ```
 
 ## OUTPUT:
+```
 Enter a number to find factorial: 5
 Factorial of 5 = 120
 Enter a number to find factorial: 7
 Factorial of 7 = 5040
-
+```
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
  
